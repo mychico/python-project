@@ -1,0 +1,2 @@
+msg = "HelloWord"
+print(msg)
